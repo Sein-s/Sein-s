@@ -4,7 +4,7 @@
 </p>
 
 <!-- 이름 / 소개 -->
-<h2 align="center">👋 Hi, I'm <strong>왕자 (Sein)</strong></h2>
+<h2 align="center">👋 Hi, I'm <strong>Sein (Sein)</strong></h2>
 <p align="center">
   🌟 AI·Software Developer | Data Scientist | Full-stack Engineer  
   <br/>
@@ -48,19 +48,9 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sein-s&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sein-s&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
 ### 📫 Contact
 <p align="center">
-  <a href="mailto:sein.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sein-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://sein-s.github.io"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat&logo=githubpages&logoColor=white"/></a>
+  <a href="mailto:anstpdls45@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
